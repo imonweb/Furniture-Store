@@ -1,16 +1,5 @@
-* {
-  margin: 0;
-  padding: 0;
-}
-
-html {
-  font-size: 62.5%;
-}
- 
-body {
-  box-sizing: border-box;
-  font-family: "Alegreya", serif;
-
-}
-
- 
+@import url(./partials/globals.css);
+@import url(./partials/utilities.css);
+@import url(./partials/base.css);
+@import url(./partials/header.css);
+@import url(./partials/menu.css);
